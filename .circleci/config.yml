@@ -10,4 +10,4 @@ jobs:
 workflows:
   basic:
     jobs:
-      - build-and-testr
+      - build-and-test
